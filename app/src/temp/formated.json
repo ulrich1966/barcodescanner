@@ -1,0 +1,354 @@
+{
+  "product": {
+    "countries": "France",
+    "countries_hierarchy": [
+      "en:france"
+    ],
+    "traces_from_ingredients": "",
+    "complete": 0,
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-to-be-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:categories-to-be-completed",
+      "en:brands-to-be-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-to-be-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:photos-uploaded"
+    ],
+    "additives_tags": [],
+    "nutrition_score_debug": "no score when the product does not have a category",
+    "countries_debug_tags": [],
+    "nutrient_levels": {},
+    "ingredients_hierarchy": [],
+    "_keywords": [
+      "pur",
+      "krauter"
+    ],
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.100.jpg",
+    "image_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.400.jpg",
+    "no_nutrition_data": "",
+    "checkers_tags": [],
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.100.jpg",
+    "nutriments": {
+      "salt_value": "0",
+      "energy_100g": "4",
+      "energy_value": "1",
+      "carbohydrates_100g": 0.2,
+      "energy_unit": "kcal",
+      "fat": "0",
+      "saturated-fat_100g": "0",
+      "saturated-fat_serving": "",
+      "sugars": 0.1,
+      "sugars_value": "0.1",
+      "salt_unit": "",
+      "salt_100g": "0",
+      "salt_serving": "",
+      "saturated-fat_value": "0",
+      "carbohydrates": 0.2,
+      "salt": "0",
+      "sugars_100g": 0.1,
+      "fat_serving": "",
+      "proteins": "0",
+      "carbohydrates_serving": "",
+      "carbohydrates_value": "0.2",
+      "proteins_serving": "",
+      "proteins_unit": "",
+      "carbohydrates_unit": "",
+      "energy_serving": "",
+      "sodium": "0",
+      "energy": "4",
+      "proteins_value": "0",
+      "fat_unit": "",
+      "proteins_100g": "0",
+      "saturated-fat": "0",
+      "sugars_serving": "",
+      "saturated-fat_unit": "",
+      "sodium_serving": "",
+      "sodium_100g": "0",
+      "fat_100g": "0",
+      "sugars_unit": "",
+      "fat_value": "0"
+    },
+    "last_edit_dates_tags": [
+      "2018-06-19",
+      "2018-06",
+      "2018"
+    ],
+    "traces_tags": [],
+    "code": "4002221011311",
+    "nova_group_tags": [
+      "not-applicable"
+    ],
+    "interface_version_created": "20150316.jqm2",
+    "allergens_tags": [],
+    "nucleotides_prev_tags": [],
+    "entry_dates_tags": [
+      "2018-06-19",
+      "2018-06",
+      "2018"
+    ],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.400.jpg",
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "nucleotides_tags": [],
+    "codes_tags": [
+      "code-13",
+      "4002221011311",
+      "400222101131x",
+      "40022210113xx",
+      "4002221011xxx",
+      "400222101xxxx",
+      "40022210xxxxx",
+      "4002221xxxxxx",
+      "400222xxxxxxx",
+      "40022xxxxxxxx",
+      "4002xxxxxxxxx",
+      "400xxxxxxxxxx",
+      "40xxxxxxxxxxx",
+      "4xxxxxxxxxxxx"
+    ],
+    "additives_prev_original_tags": [],
+    "id": "4002221011311",
+    "nutrient_levels_tags": [],
+    "_id": "4002221011311",
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-to-be-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+    "languages_tags": [
+      "en:french",
+      "en:1"
+    ],
+    "languages_hierarchy": [
+      "en:french"
+    ],
+    "allergens_from_ingredients": "",
+    "unknown_nutrients_tags": [],
+    "ingredients_text_debug": null,
+    "ingredients": [],
+    "image_small_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.200.jpg",
+    "minerals_tags": [],
+    "product_name": "Kräuter pur",
+    "ingredients_text_with_allergens": null,
+    "lang": "fr",
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.200.jpg",
+    "nutrition_data_prepared_per": "100g",
+    "nutrition_grades_tags": [
+      "not-applicable"
+    ],
+    "additives_prev_tags": [],
+    "update_key": "pnns15",
+    "traces_hierarchy": [],
+    "nova_group_debug": "no nova group when the product does not have ingredients",
+    "ingredients_ids_debug": [],
+    "informers_tags": [
+      "kiliweb"
+    ],
+    "serving_quantity": 0,
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.200.jpg",
+    "countries_lc": "fr",
+    "creator": "kiliweb",
+    "images": {
+      "ingredients_fr": {
+        "white_magic": "0",
+        "geometry": "0x0-0-0",
+        "rev": "7",
+        "x1": null,
+        "normalize": "0",
+        "angle": null,
+        "x2": null,
+        "y2": null,
+        "imgid": "2",
+        "sizes": {
+          "full": {
+            "h": 1200,
+            "w": 1195
+          },
+          "400": {
+            "h": 400,
+            "w": 398
+          },
+          "100": {
+            "h": 100,
+            "w": 100
+          },
+          "200": {
+            "w": 199,
+            "h": 200
+          }
+        },
+        "y1": null
+      },
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 56
+          },
+          "400": {
+            "w": 225,
+            "h": 400
+          },
+          "full": {
+            "h": 1200,
+            "w": 675
+          }
+        },
+        "uploader": "kiliweb",
+        "uploaded_t": "1529389595"
+      },
+      "front_fr": {
+        "y1": null,
+        "sizes": {
+          "400": {
+            "h": 400,
+            "w": 225
+          },
+          "full": {
+            "h": 1200,
+            "w": 675
+          },
+          "100": {
+            "h": 100,
+            "w": 56
+          },
+          "200": {
+            "w": 113,
+            "h": 200
+          }
+        },
+        "imgid": "1",
+        "x2": null,
+        "angle": null,
+        "y2": null,
+        "normalize": "0",
+        "x1": null,
+        "rev": "4",
+        "geometry": "0x0-0-0",
+        "white_magic": "0"
+      },
+      "2": {
+        "uploaded_t": "1529389600",
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 100
+          },
+          "full": {
+            "h": 1200,
+            "w": 1195
+          },
+          "400": {
+            "h": 400,
+            "w": 398
+          }
+        },
+        "uploader": "kiliweb"
+      }
+    },
+    "lc": "fr",
+    "unknown_ingredients_n": 0,
+    "photographers_tags": [
+      "kiliweb"
+    ],
+    "selected_images": {
+      "front": {
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.400.jpg"
+        },
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.400.jpg"
+        },
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.100.jpg"
+        }
+      }
+    },
+    "last_image_t": 1529389600,
+    "max_imgid": "2",
+    "allergens_hierarchy": [],
+    "nutrition_data_per_debug_tags": [],
+    "amino_acids_tags": [],
+    "nutrition_data_per": "100g",
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-to-be-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:categories-to-be-completed",
+      "en:brands-to-be-completed",
+      "en:packaging-to-be-completed",
+      "en:quantity-to-be-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:photos-uploaded"
+    ],
+    "last_modified_t": 1529389601,
+    "image_front_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/front_fr.4.400.jpg",
+    "countries_tags": [
+      "en:france"
+    ],
+    "additives_debug_tags": [],
+    "rev": 7,
+    "product_name_debug_tags": [],
+    "created_t": 1529389593,
+    "additives_old_tags": [],
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/400/222/101/1311/ingredients_fr.7.100.jpg",
+    "languages_codes": {
+      "fr": 3
+    },
+    "correctors_tags": [
+      "openfoodfacts-contributors"
+    ],
+    "product_name_fr": "Kräuter pur",
+    "ingredients_original_tags": [],
+    "editors_tags": [
+      "kiliweb",
+      "openfoodfacts-contributors"
+    ],
+    "ingredients_text_with_allergens_fr": null,
+    "ingredients_from_palm_oil_tags": [],
+    "vitamins_prev_tags": [],
+    "languages": {
+      "en:french": 3
+    },
+    "minerals_prev_tags": [],
+    "ingredients_debug": [],
+    "allergens": "",
+    "last_editor": null,
+    "last_image_dates_tags": [
+      "2018-06-19",
+      "2018-06",
+      "2018"
+    ],
+    "additives_original_tags": [],
+    "quality_tags": [],
+    "vitamins_tags": [],
+    "ingredients_tags": [],
+    "interface_version_modified": "20150316.jqm2",
+    "amino_acids_prev_tags": [],
+    "sortkey": 529389601,
+    "misc_tags": [
+      "en:nutriscore-not-computed"
+    ],
+    "last_modified_by": null
+  },
+  "code": "4002221011311",
+  "status": 1,
+  "status_verbose": "product found"
+}
